@@ -2,10 +2,10 @@
 #### Computer Science student
 I'm Krittamet Chanphet from Thailand, and I want to be a good developer in the future
 
-Skills: HTML / CSS / JS / PHP / ADOBE
+Skills: HTML / CSS / JS / PHP / ADOBE / SQL / REACT
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python / React 
+- 🌱 I’m currently learning Python / Dart / Flutter
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BossKritt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Krittamet.Chanphet/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_bossKritt/)  
