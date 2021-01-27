@@ -12,5 +12,6 @@ Skills: HTML / CSS / JS / PHP / ADOBE / SQL / REACT
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BossKritt&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossKritt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BossKritt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/BossKritt)  
