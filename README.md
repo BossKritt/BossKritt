@@ -1,5 +1,5 @@
 ### Hi there 👋, Krittamet Chanphet
-#### Computer Science student
+#### Computer Science Student
 I'm Krittamet Chanphet from Thailand, and I want to be a good developer in the future
 
 Skills: HTML / CSS / JS / PHP / ADOBE / SQL / REACT.JS & REACT NATIVE
